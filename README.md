@@ -17,18 +17,22 @@ Our goal is to move beyond symptom tracking by providing behavior-aware, proacti
 
 ## Features
 
-1. Personalized AI Product Recommendations
+### 1. Personalized AI Product Recommendations
 Recommends products tailored to users’ specific pain conditions (e.g., ergonomic chairs, orthopedic pillows, posture-correcting footwear).
 Suggests more suitable and condition-specific options based on individual needs, pain history, and usage feedback.
-2. Diet & Lifestyle Guidance
+
+### 2. Diet & Lifestyle Guidance
 Provides dietary suggestions aligned with the user's pain condition and health goals (e.g., anti-inflammatory diets), helping users manage pain through nutritional support and habit tracking
-3. Pain & Symptom Tracking with Analytics
+
+### 3. Pain & Symptom Tracking with Analytics
 Users can log daily pain levels (scale or emoji-based), specify pain location, type, duration, and triggers, along with environmental or lifestyle factors.
 We provide intelligent analytics and visualizations to help users identify recurring patterns and lifestyle correlations that may be contributing to their chronic pain.
-4. AI Chatbot Assistant (Powered by Gemini API)
+
+### 4. AI Chatbot Assistant (Powered by Gemini API)
 An intelligent assistant that engages in natural conversations with users to understand their symptoms, routines, and past logs.
 It provides suggestions and answers to FAQs specifically focused on pain management, posture correction, ergonomic practices, stretching routines, and lifestyle modifications
-5. Community Forum for Peer Support
+
+### 5. Community Forum for Peer Support
 Users can join a built-in forum to interact, share personal experiences, ask questions, and support each other in managing chronic pain more effectively.
 
 ## Tech Stack
