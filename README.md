@@ -15,6 +15,18 @@ Chronic pain is not only a physical ailment, it is a multidimensional condition 
 
 ![frequency](https://github.com/user-attachments/assets/4637c21f-1126-43cb-89d7-79f2ea98cc2a)
 
+According to multiple surveys:
+
+
+![age](https://github.com/user-attachments/assets/bb96819d-f405-43f9-826d-330703779c78)
+
+
+- 24.3% of U.S. adults (1 in 4) experience chronic pain.
+- 8.5% suffer from high-impact chronic pain (HICP), which severely limits daily activities.
+- Trend: Up from 20.4% in 2019, indicating a growing crisis
+
+Source: CDC 2023 Report: [CDC Chronic Pain Statistics](https://www.cdc.gov/nchs/products/databriefs/db518.htm)
+
 ### Demo Video
 
 
@@ -35,13 +47,13 @@ We combine pain logs, user profiles, and advanced AI (Gemini API) to generate hi
 
 Our goal is to move beyond symptom tracking by providing behavior-aware, proactive guidance that enhances users' daily function, independence, and long-term well-being.
 
-## Features
+## ⚙️Features
 
 ### 1. Personalized AI Product Recommendations
 Recommends products tailored to users’ specific pain conditions (e.g., ergonomic chairs, orthopedic pillows, posture-correcting footwear).
 Suggests more suitable and condition-specific options based on individual needs, pain history, and usage feedback.
 
-### 2. Diet & Lifestyle Guidance
+### 2. Diet & Lifestyle Guidance 
 Provides dietary suggestions aligned with the user's pain condition and health goals (e.g., anti-inflammatory diets), helping users manage pain through nutritional support and habit tracking
 
 ### 3. Pain & Symptom Tracking with Analytics
