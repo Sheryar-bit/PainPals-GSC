@@ -3,11 +3,26 @@
 ![PainPals logo (1)](https://github.com/user-attachments/assets/463a9dec-f54d-471c-b60c-543cc1c3f32f)
 
 
-![PainPals_logo__1_-removebg-preview](https://github.com/user-attachments/assets/4fec079b-6b77-4d0c-83af-2eecf79e88c2)
-
-## Problem Statement
+## ⚠️ Problem Statement
 
 Chronic pain is not only a physical ailment, it is a multidimensional condition deeply impacted by a person’s daily lifestyle, habits, and environmental choices. Many individuals unknowingly worsen their chronic pain through poorly informed decisions about posture, furniture, footwear, clothing, diet, or sleep routines. There exists a critical gap in accessible, personalized, and intelligent guidance that can help users identify and adjust everyday lifestyle factors contributing to chronic pain. Traditional healthcare systems often overlook this preventative and lifestyle-centric approach, leading to prolonged suffering and reduced quality of life.
+
+### 📝Pre-App Development Survey
+
+![gender](https://github.com/user-attachments/assets/0653f5bb-6fa2-4529-a432-62aa215634bc)
+
+![contribution](https://github.com/user-attachments/assets/38f6e321-844a-411a-8f00-30ff43ad1297)
+
+![frequency](https://github.com/user-attachments/assets/4637c21f-1126-43cb-89d7-79f2ea98cc2a)
+
+### Demo Video
+
+
+### 🎯UN's Sustainable Development Goals in Focus
+
+![sgdd](https://github.com/user-attachments/assets/30f96156-0bbb-48c2-bbc9-540262a3f8e0)
+
+We're aligning with SDG 3: Good Health and Well-being because our app focuses on improving the quality of life for individuals suffering from chronic pain. By offering personalized, AI-driven recommendations and lifestyle insights, the app promotes better health management, early identification of harmful habits, and informed decision-making, supporting preventive care and enhanced well-being for all.
 
 ## Project Overview
 
