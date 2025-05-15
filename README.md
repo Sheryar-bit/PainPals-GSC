@@ -1,5 +1,8 @@
 # PainPals-GSC
 
+![PainPals logo (1)](https://github.com/user-attachments/assets/463a9dec-f54d-471c-b60c-543cc1c3f32f)
+
+
 ## Problem Statement
 
 Chronic pain is not only a physical ailment, it is a multidimensional condition deeply impacted by a person’s daily lifestyle, habits, and environmental choices. Many individuals unknowingly worsen their chronic pain through poorly informed decisions about posture, furniture, footwear, clothing, diet, or sleep routines. There exists a critical gap in accessible, personalized, and intelligent guidance that can help users identify and adjust everyday lifestyle factors contributing to chronic pain. Traditional healthcare systems often overlook this preventative and lifestyle-centric approach, leading to prolonged suffering and reduced quality of life.
