@@ -34,15 +34,15 @@ Users can join a built-in forum to interact, share personal experiences, ask que
 ## Tech Stack
 
 ### Frontend:
-React Native
-Redux / Context API (for managing app-wide state)
-Axios (for making HTTP requests)
+- React Native
+- Redux / Context API (for managing app-wide state)
+- Axios (for making HTTP requests)
 
 ### Backend:
-Language: Python
-Framework: Fast API
-Database: Firebase
-LLM: Google Gemini
-Search Engine: Google Programmable Search Engine (PSE)
+- Language: Python
+- Framework: Fast API
+- Database: Firebase
+- LLM: Google Gemini
+- Search Engine: Google Programmable Search Engine (PSE)
 
 
