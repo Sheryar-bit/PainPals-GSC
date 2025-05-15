@@ -37,33 +37,33 @@ Users can join a built-in forum to interact, share personal experiences, ask que
 
 ## Tech Stack
 
-### Frontend:
-### React Native
+## Frontend:
+### 1. React Native
 For building a cross-platform mobile app (iOS & Android) using a single codebase. It handles the UI and screen interactions.
 
-### Redux / Context API
+### 2. Redux / Context API
 Used for managing global app states like user authentication, pain history, theme preferences (dark/light), and AI conversation data.
 
-3## Axios
+### 3. Axios
 For making HTTP requests from the frontend to the backend (e.g., sending image data, retrieving AI recommendations, syncing user info).
 
-### Backend:
+## Backend:
 
-### Language: Python
+### 1. Language: Python
 Chosen for its simplicity and strong ecosystem for AI, image processing, and backend development.
 
-### Framework: FastAPI
+### 2. Framework: FastAPI
 Fast and asynchronous web framework to build APIs quickly. It will:
 - Handle requests from the frontend
 - Route to AI processing functions
 - Manage image uploads and communication with Gemini or Firebase
 
-### LLM: Google Gemini: 
+### 3. LLM: Google Gemini: 
 - For analyzing user conversations and images
 - Helps generate lifestyle, diet, and product suggestions based on pain data
 - Works with vision API or extracted image context to provide relevant answers
 
-### Google Programmable Search Engine (PSE)
+### 4. Google Programmable Search Engine (PSE)
 - For when the AI needs to suggest alternative products, brands, or research-backed advice
 - Helps fetch real-time web results when needed
 
