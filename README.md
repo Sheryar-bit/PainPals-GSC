@@ -99,3 +99,41 @@ Fast and asynchronous web framework to build APIs quickly. It will:
 - For when the AI needs to suggest alternative products, brands, or research-backed advice
 - Helps fetch real-time web results when needed
 
+
+
+<h2 align="center">🌐Team PainPals</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ShanzayKn" target="_blank">
+      <img src="https://github.com/user-attachments/assets/564be01c-786b-49e0-851b-e78a2ce7c181" width="150px" alt="Shanzay Khan"/>
+      </a>
+      <br>
+      <br>
+      <i>DHA Suffa University</i>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sheryar-bit" target="_blank">
+      <img src="https://github.com/user-attachments/assets/b5509c09-3f95-4eda-893d-8d6e28431c74" width="150px" alt="Sheryar Ali"/>
+      </a>
+      <br>
+      <br>
+      <i>DHA Suffa University</i>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sannanumer2003" target="_blank">
+      <img src="https://github.com/user-attachments/assets/c5e42784-cabf-4783-99d7-f3cd356df02b" width="150px" alt="Sannan Umer"/>
+      </a>
+      <br>
+      <br>
+      <i>DHA Suffa University</i>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ca28b549-5f83-46d1-bf69-d62db928e2ed" width="150px" alt="Somil Daswani"/>
+      <br>
+      <br>
+      <i>DHA Suffa University</i>
+    </td>
+  </tr>
+</table>
