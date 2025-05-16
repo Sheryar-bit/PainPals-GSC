@@ -91,6 +91,21 @@ Users can join a built-in forum to interact, share personal experiences, ask que
 
 ## 👨🏻‍💻Tech Stack
 
+## 🧑‍💻 Our Tech Stack
+
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/1f4075cf-ab4b-4fd2-ab9d-b3c90d1285e4" width="120"/>
+  <img src="https://github.com/user-attachments/assets/48fcce85-7c8d-4ac9-a20e-6f8055eebb48" width="120"/>
+  <img src="https://github.com/user-attachments/assets/f3ee8a2b-c5d4-4949-ac07-555124d4ba73" width="120"/>
+  <img src="https://github.com/user-attachments/assets/0c165216-604d-4443-bd4e-9b588af51a86" width="120"/>
+
+</p>
+
+<p align="center">
+  Gemini &nbsp;|&nbsp; React Native &nbsp;|&nbsp; Firebase &nbsp;|&nbsp; Google PSE &nbsp;
+</p>
+
+
 ## Frontend:
 ### 1. React Native
 For building a cross-platform mobile app (iOS & Android) using a single codebase. It handles the UI and screen interactions.
