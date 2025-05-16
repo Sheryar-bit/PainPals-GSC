@@ -94,10 +94,10 @@ Users can join a built-in forum to interact, share personal experiences, ask que
 ## 🧑‍💻 Our Tech Stack
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/1f4075cf-ab4b-4fd2-ab9d-b3c90d1285e4" width="120"/>
+  <img src="https://github.com/user-attachments/assets/73c9a1ee-a9b2-4ae8-9139-18f82e2b7904" width="120"/>
   <img src="https://github.com/user-attachments/assets/48fcce85-7c8d-4ac9-a20e-6f8055eebb48" width="120"/>
   <img src="https://github.com/user-attachments/assets/e5a17a9f-6378-4ecc-9d2a-23cf08e97cae" width="120"/>
-  <img src="https://github.com/user-attachments/assets/98d05f2b-6e73-434f-af09-a343148005e4" width="120"/>
+  <img src="https://github.com/user-attachments/assets/6a4c0065-8455-4d8d-89cb-ea16759c6285" width="120"/>
 
 </p>
 
