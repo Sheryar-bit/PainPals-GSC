@@ -91,17 +91,25 @@ It provides suggestions and answers to FAQs specifically focused on pain managem
 ### 5. Community Forum for Peer Support
 Users can join a built-in forum to interact, share personal experiences, ask questions, and support each other in managing chronic pain more effectively.
 
-## 👨🏻‍💻Tech Stack
 
 ## 🧑‍💻 Our Tech Stack
 
- <p align="center">
+  <p align="center">
+     <a href="https://gemini.google.com/">
   <img src="https://github.com/user-attachments/assets/73c9a1ee-a9b2-4ae8-9139-18f82e2b7904" width="120"/>
+     </a>
+     <a href="https://reactnative.dev/">
   <img src="https://github.com/user-attachments/assets/48fcce85-7c8d-4ac9-a20e-6f8055eebb48" width="120"/>
+     </a>
+     <a href="https://programmablesearchengine.google.com/about/">
   <img src="https://github.com/user-attachments/assets/e5a17a9f-6378-4ecc-9d2a-23cf08e97cae" width="120"/>
+     </a>
+     <a href="https://firebase.google.com/">
   <img src="https://github.com/user-attachments/assets/c9048486-4a01-4726-98cc-37af45518b92" width="120"/>
+     </a>
 
 </p>
+
 
 
 
