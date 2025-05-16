@@ -96,13 +96,13 @@ Users can join a built-in forum to interact, share personal experiences, ask que
  <p align="center">
   <img src="https://github.com/user-attachments/assets/1f4075cf-ab4b-4fd2-ab9d-b3c90d1285e4" width="120"/>
   <img src="https://github.com/user-attachments/assets/48fcce85-7c8d-4ac9-a20e-6f8055eebb48" width="120"/>
-  <img src="https://github.com/user-attachments/assets/f3ee8a2b-c5d4-4949-ac07-555124d4ba73" width="120"/>
-  <img src="https://github.com/user-attachments/assets/0c165216-604d-4443-bd4e-9b588af51a86" width="120"/>
+  <img src="https://github.com/user-attachments/assets/e5a17a9f-6378-4ecc-9d2a-23cf08e97cae" width="120"/>
+  <img src="https://github.com/user-attachments/assets/98d05f2b-6e73-434f-af09-a343148005e4" width="120"/>
 
 </p>
 
 <p align="center">
-  Gemini &nbsp;|&nbsp; React Native &nbsp;|&nbsp; Firebase &nbsp;|&nbsp; Google PSE &nbsp;
+  Gemini &nbsp;|&nbsp; React Native &nbsp;|&nbsp; Google PSE &nbsp;|&nbsp; Firebase &nbsp;
 </p>
 
 
