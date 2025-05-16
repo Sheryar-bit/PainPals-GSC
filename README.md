@@ -25,13 +25,15 @@ According to multiple surveys:
 - 8.5% suffer from high-impact chronic pain (HICP), which severely limits daily activities.
 - Trend: Up from 20.4% in 2019, indicating a growing crisis
 
-Source: CDC 2023 Report: [CDC Chronic Pain Statistics](https://www.cdc.gov/nchs/products/databriefs/db518.htm)
+**Source:** CDC 2023 Report: [CDC Chronic Pain Statistics](https://www.cdc.gov/nchs/products/databriefs/db518.htm)
+
+**Other findings:**
 
 The researchers used data from studies conducted between 2013–2023 that included 347,468 adult patients with chronic pain from 50 countries. The average age of the patients was 52. A total of seven depression and anxiety disorder symptoms were studied in the patients.
 
 Of the seven depression and anxiety disorder symptoms, researchers discovered that the highest rates shown in patients with chronic pain were from clinical symptoms of depression and clinical symptoms of anxiety at 39% and 40% respectively. 
 
-Source: Worldwide Study Finds High Rates of Depression and Anxiety in People with Chronic Pain: [Johns Hopkins Medicine](https://www.hopkinsmedicine.org/news/newsroom/news-releases/2025/03/worldwide-study-finds-high-rates-of-depression-and-anxiety-in-people-with-chronic-pain)
+**Source:** Worldwide Study Finds High Rates of Depression and Anxiety in People with Chronic Pain: [Johns Hopkins Medicine](https://www.hopkinsmedicine.org/news/newsroom/news-releases/2025/03/worldwide-study-finds-high-rates-of-depression-and-anxiety-in-people-with-chronic-pain)
 
 
 ![pain status](https://github.com/user-attachments/assets/17efd648-4854-4de0-8e48-8ce511329e40)
@@ -45,12 +47,12 @@ Source: Worldwide Study Finds High Rates of Depression and Anxiety in People wit
     - Depression (15.9/1,000 PY)
     - Hypertension (45.3/1,000 PY).
 
-Source: Estimated Rates of Incident and Persistent Chronic Pain Among US Adults, 2019-2020: [National Library of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC10189566/)
+**Source:** Estimated Rates of Incident and Persistent Chronic Pain Among US Adults, 2019-2020: [National Library of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC10189566/)
 
 
 ### 🎥 Demo Video
 
-[Watch the video](https://www.youtube.com/watch?v=EeYeeCv_dgA)
+[![Watch the video](https://github.com/user-attachments/assets/93339645-9c09-4904-bab6-f64aeec34c3a)](https://www.youtube.com/watch?v=EeYeeCv_dgA)
 
 ### 🎯UN's Sustainable Development Goals in Focus
 
@@ -97,9 +99,10 @@ Users can join a built-in forum to interact, share personal experiences, ask que
   <img src="https://github.com/user-attachments/assets/73c9a1ee-a9b2-4ae8-9139-18f82e2b7904" width="120"/>
   <img src="https://github.com/user-attachments/assets/48fcce85-7c8d-4ac9-a20e-6f8055eebb48" width="120"/>
   <img src="https://github.com/user-attachments/assets/e5a17a9f-6378-4ecc-9d2a-23cf08e97cae" width="120"/>
-  <img src="https://github.com/user-attachments/assets/b866fccb-37ac-4701-86df-baee5630de34" width="120"/>
+  <img src="https://github.com/user-attachments/assets/c9048486-4a01-4726-98cc-37af45518b92" width="120"/>
 
 </p>
+
 
 
 <p align="center">
