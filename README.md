@@ -27,8 +27,30 @@ According to multiple surveys:
 
 Source: CDC 2023 Report: [CDC Chronic Pain Statistics](https://www.cdc.gov/nchs/products/databriefs/db518.htm)
 
-### Demo Video
+The researchers used data from studies conducted between 2013–2023 that included 347,468 adult patients with chronic pain from 50 countries. The average age of the patients was 52. A total of seven depression and anxiety disorder symptoms were studied in the patients.
 
+Of the seven depression and anxiety disorder symptoms, researchers discovered that the highest rates shown in patients with chronic pain were from clinical symptoms of depression and clinical symptoms of anxiety at 39% and 40% respectively. 
+
+Source: Worldwide Study Finds High Rates of Depression and Anxiety in People with Chronic Pain: [Johns Hopkins Medicine](https://www.hopkinsmedicine.org/news/newsroom/news-releases/2025/03/worldwide-study-finds-high-rates-of-depression-and-anxiety-in-people-with-chronic-pain)
+
+
+![pain status](https://github.com/user-attachments/assets/17efd648-4854-4de0-8e48-8ce511329e40)
+
+- 61.4% of adults with chronic pain in 2019 still had it in 2020, showing high chronicity.
+- 14.9% of those with nonchronic pain in 2019 developed chronic pain by 2020.
+- Only 6.3% of pain-free individuals in 2019 developed new chronic pain.
+- Just 1.4% progressed to high-impact chronic pain (HICP).
+- Chronic pain incidence (52.4 cases per 1,000 person-years) was significantly higher than:
+    - Diabetes (7.1/1,000 PY)
+    - Depression (15.9/1,000 PY)
+    - Hypertension (45.3/1,000 PY).
+
+Source: Estimated Rates of Incident and Persistent Chronic Pain Among US Adults, 2019-2020: [National Library of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC10189566/)
+
+
+### 🎥 Demo Video
+
+[Watch the video](https://www.youtube.com/watch?v=EeYeeCv_dgA)
 
 ### 🎯UN's Sustainable Development Goals in Focus
 
@@ -38,7 +60,7 @@ We're aligning with SDG 3: Good Health and Well-being because our app focuses on
 
 ## Project Overview
 
-PainWise is an AI-powered chronic pain management and recommendation platform designed to empower individuals in taking control of their pain through informed daily choices.
+PainPals is an AI-powered chronic pain management and recommendation platform designed to empower individuals in taking control of their pain through informed daily choices.
 We combine pain logs, user profiles, and advanced AI (Gemini API) to generate highly personalized lifestyle recommendations—ranging from ergonomically suitable products (e.g., chairs, pillows, footwear) to customized diet and sleep strategies. The platform features:
 
 - A conversational AI interface for symptom discussion
@@ -67,7 +89,7 @@ It provides suggestions and answers to FAQs specifically focused on pain managem
 ### 5. Community Forum for Peer Support
 Users can join a built-in forum to interact, share personal experiences, ask questions, and support each other in managing chronic pain more effectively.
 
-## Tech Stack
+## 👨🏻‍💻Tech Stack
 
 ## Frontend:
 ### 1. React Native
